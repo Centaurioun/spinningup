@@ -10,7 +10,7 @@ psutil
 scipy
 seaborn==0.8.1
 sphinx==3.0.4
-sphinx-autobuild==0.7.1       
-sphinx-rtd-theme==0.4.1 
+sphinx-autobuild==0.7.1
+sphinx-rtd-theme==0.4.1
 tensorflow>=1.8.0,<2.0
 tqdm
